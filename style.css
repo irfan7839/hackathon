@@ -1,0 +1,22 @@
+ /* html {
+  box-sizing: border-box;
+}
+
+
+:after,
+::before {
+  box-sizing: inherit;
+ }  */
+
+.bg-light ul{
+  margin-left: 400px;
+}
+.bg-light li{
+  padding: 3px 3px;
+  margin-left: 120px;
+  font-size: 30px;
+}
+.bg-light{
+  height: 120px;
+}
+
